@@ -1,0 +1,9 @@
+main: net.faiden.skywars.SkyWars
+name: SkyWars
+author: Faiden
+load: STARTUP
+depends: [GolemaDatabase, TimeSaver]
+version: 0.0.1
+commands:
+  start:
+    description: Command to force start the Game.

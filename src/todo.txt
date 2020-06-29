@@ -1,0 +1,8 @@
+Travail à finir: 
+	- Chest
+	- Fix les bugs liés aux Spectateurs/Joueurs/Bypass.
+	- Gérer l'éloignement des spectateurs
+	- Kits 
+	- Perks
+	- Cosmétiques
+	- Changer les gains
